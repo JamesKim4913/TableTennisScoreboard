@@ -16,3 +16,7 @@
 ### Landscape vs Portrait Orientation
 ### Reset Scores
 ### Reset All (Points, Games, Names)
+
+### Screenshot  
+![Screenshot](https://github.com/JamesKim4913/TableTennisScoreboard/blob/1f76030365a8de38611ae15fd643e9088ead169d/screenshot/Screenshot1.jpg)  
+![Screenshot](https://github.com/JamesKim4913/TableTennisScoreboard/blob/1f76030365a8de38611ae15fd643e9088ead169d/screenshot/Screenshot2.jpg)  
